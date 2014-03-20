@@ -12,6 +12,7 @@ a:link{
   a:active{
     color: gray;
   }
+
 #nav{
 	float:right;
 }
@@ -81,6 +82,7 @@ a:link{
 	margin-left:15%;
 }
 #m{
+	padding:15px;
 	border:double 5px #1ecc24;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
